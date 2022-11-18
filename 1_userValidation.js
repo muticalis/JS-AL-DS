@@ -10,11 +10,8 @@ export const userValidation = (str) => {
     } else {
         return false
     }
-    
-    
-    
     console.log(str)
-}
+
 /* Rules
 1. The username is between 4 and 25 characters.
 2. It must start with a letter.
